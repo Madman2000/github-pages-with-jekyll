@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Andrew's page!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here, because that means the page is working properly. And thats always a great feeling.
