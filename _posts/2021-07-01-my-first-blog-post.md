@@ -1,1 +1,6 @@
-oijsdoiajsoidjoi
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+
+My first post! Here goes nothing!
